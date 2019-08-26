@@ -7,7 +7,7 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/aalfiann/electron-dev.git"
-	  },
+	},
 	"author": {
 		"name": "M ABD AZIZ ALFIAN",
 		"email": "aalfiann@gmail.com",
