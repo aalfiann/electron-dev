@@ -1,10 +1,13 @@
 {
-	"name": "electron-dev",
+	"name": "com.aalfiann.electron_dev",
 	"productName": "Electron Dev",
 	"version": "1.0.1",
 	"description": "This is my personal project to research the feature of electron.js framework ",
 	"license": "MIT",
-	"repository": "aalfiann/electron-dev",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/aalfiann/electron-dev.git"
+	  },
 	"author": {
 		"name": "M ABD AZIZ ALFIAN",
 		"email": "aalfiann@gmail.com",
@@ -40,7 +43,7 @@
 		]
 	},
 	"np": {
-		"publish": false,
+		"publish": true,
 		"releaseDraft": false
 	},
 	"build": {
