@@ -14,7 +14,7 @@ debug();
 contextMenu();
 
 // Note: Must match `build.appId` in package.json
-app.setAppUserModelId('com.company.electron_dev');
+app.setAppUserModelId('com.aalfiann.electron_dev');
 
 // Uncomment this before publishing your first version.
 // It's commented out as it throws an error if there are no published versions.

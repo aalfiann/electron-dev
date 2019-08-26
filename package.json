@@ -40,11 +40,11 @@
 		]
 	},
 	"np": {
-		"publish": true,
-		"releaseDraft": true
+		"publish": false,
+		"releaseDraft": false
 	},
 	"build": {
-		"appId": "com.company.electron_dev",
+		"appId": "com.aalfiann.electron_dev",
 		"mac": {
 			"category": "public.app-category.social-networking",
 			"darkModeSupport": true
