@@ -1,7 +1,7 @@
 {
 	"name": "electron-dev",
 	"productName": "Electron Dev",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "This is my personal project to research the feature of electron.js framework ",
 	"license": "MIT",
 	"repository": "aalfiann/electron-dev",
